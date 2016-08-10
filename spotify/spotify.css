@@ -1,0 +1,17 @@
+#main{
+    text-align: center;
+    width: 100%;
+}
+
+h1{
+    font-family: sans-serif;
+}
+
+button{
+    width: 50px;
+    color: grey;
+}
+
+#listContainer{
+    font-family: sans-serif;
+}
